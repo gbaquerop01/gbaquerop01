@@ -3,14 +3,8 @@ España - 19 años
 
 *Actualmente estudiando y apasionado por la programación*.
 ### Aptitudes:
-- Trabajo en Equipo
-- Desarrollo Fullstack
-- Conocimiento de conceptos:
-	-  SOLID
-	-  GRASP
-	-  DRY
-	-  Patrones de Diseño
-	-  Programacion Concurrente
+- Trabajo en Equipo | Desarrollo Fullstack | Conocimiento de conceptos:
+	-  SOLID | GRASP | Patrones de Diseño | Programacion Concurrente
 
 
 ### Lenguajes
@@ -22,12 +16,7 @@ España - 19 años
 - PHP
 
 ### Software e IDEs
-- Eclipse
-- IntelliJ IDEA
-- WebStorm
-- Pycharm
-- Visual Studio
-- Android Studio
+- Eclipse | IntelliJ IDEA | WebStorm | Pycharm | Visual Studio | Android Studio
 
 ### Proyectos
 1. ArchivoTermikos:
