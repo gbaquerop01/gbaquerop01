@@ -19,7 +19,7 @@ España - 19 años
 - Eclipse | IntelliJ IDEA | WebStorm | Pycharm | Visual Studio | Android Studio
 
 ### Proyectos
-1. ArchivoTermikos:
+1. [ArchivoTermikos](https://github.com/cdominguezh06/ArchivoTermikos):
 	- *Enero 2024 - Abril 2024*
 	- Descripción de Proyecto: Proyecto grupal cuyo objetivo es la lectura de sensores para mantener las aulas en buen estado según unos criterios de temperatura, humedad, calidad de aire...
 	- Cargo en este trabajo:
